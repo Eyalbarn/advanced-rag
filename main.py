@@ -6,3 +6,5 @@ from graph.graph import app
 if __name__ == '__main__':
     print("Hello Advanced RAG")
     print(app.invoke(input={"question": "how to create an LLM agent?"}))
+    
+    ##
